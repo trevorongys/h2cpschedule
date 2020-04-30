@@ -3,6 +3,8 @@ table {
 }
 body {
   background-color: aquamarine;
+}
+p {
   max-width: 500px;
   margin: auto;
 }
