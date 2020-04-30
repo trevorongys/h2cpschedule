@@ -4,6 +4,9 @@ table {
 body {
   background-color: aquamarine;
 }
+p {
+  align-items: center;
+}
 .sidebar {
   position: fixed;
   width: 25%;
